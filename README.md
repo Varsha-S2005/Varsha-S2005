@@ -1,4 +1,4 @@
-Hi, I'm Varsha 👋  
+###Hi, I'm Varsha 👋  
 
 I enjoy turning ideas into working software — from backend-heavy web applications to clean, user-facing interfaces.
 Currently, I’m a B.Tech Computer Science and Engineering student at Shiv Nadar University, Chennai, focused on building practical systems and strengthening core CS fundamentals.
