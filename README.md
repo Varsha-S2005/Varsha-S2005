@@ -2,7 +2,6 @@ Hi, I'm Varsha 👋
 
 I enjoy turning ideas into working software — from backend-heavy web applications to clean, user-facing interfaces.
 Currently, I’m a B.Tech Computer Science and Engineering student at Shiv Nadar University, Chennai, focused on building practical systems and strengthening core CS fundamentals.
-
 I work primarily with full-stack technologies and spend a lot of time solving algorithmic problems in C++, which helps me write efficient and scalable code.  
 Alongside this, I’m actively building my skills in **Artificial Intelligence and Machine Learning**, with a focus on applying them to real-world problems.
 
